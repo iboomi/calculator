@@ -1,0 +1,16 @@
+body{
+  font-size: 20px;
+}
+input{
+  width: 70px;
+  background-color:  #ffffff;
+}
+input:hover{
+  background-color:  #e6e6e6;
+}
+input:active{
+  background-color:  #d9d9d9;
+}
+#area{
+  width: 286px;
+}
